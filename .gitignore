@@ -1,0 +1,6 @@
+/vendor
+/cache
+/tmp
+/app/config/config.php
+.phalcon
+.idea
